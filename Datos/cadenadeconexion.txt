@@ -1,0 +1,1 @@
+Data Source=.\SQLEXPRESS;AttachDbFilename="C:\Users\Lvcios\Documents\Visual Studio 2008\Projects\Pizzeria\Datos\PizzasEantGo.mdf";Integrated Security=True;Connect Timeout=30;User Instance=True
